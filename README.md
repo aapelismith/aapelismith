@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Hey, coder!👋 
+
+
+My name is Aapeli.Smith and I'm a Devops/SRE Engineer. I'm from China 🇨🇳, living in Shanghai.
+
+<hr>
+
+## Languages & Frameworks & Tools & Abilities
+
+![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social)&nbsp;&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-black?logo=JavaScript&style=social)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/-React-black?logo=JavaScript&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
+![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
+
+<hr>
+
+## Content Me 📱
+
+- email: <a href="aapeli.nian@gmail.com">aapeli.nian@gmail.com</a>
+
+
+<a href="https://github.com/aapelismith/aapelismith" title="Go to Source">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=aapelismith&show_icons=true&theme=gotham">
+</a>
+<a href="https://github.com/aapelismith/aapelismith">
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=aapelismith&hide=c%23,powershell,java&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+</a>
+<br/>
