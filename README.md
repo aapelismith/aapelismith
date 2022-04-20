@@ -26,6 +26,7 @@ My name is Aapeli and I'm a Devops/SRE Engineer. I'm from China 🇨🇳, living
 ## Languages & Frameworks & Tools & Abilities
 
 ![Go](https://img.shields.io/badge/-Go-black?logo=go&style=social)&nbsp;&nbsp;
+![Typescript](https://img.shields.io/badge/-Typescript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=JavaScript&style=social)&nbsp;&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-black?logo=JavaScript&style=social)&nbsp;&nbsp;
 ![React](https://img.shields.io/badge/-React-black?logo=JavaScript&style=social)&nbsp;&nbsp;
