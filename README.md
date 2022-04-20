@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # Hey, coder!👋 
 
 
-My name is Aapeli.Smith and I'm a Devops/SRE Engineer. I'm from China 🇨🇳, living in Shanghai.
+My name is Aapeli and I'm a Devops/SRE Engineer. I'm from China 🇨🇳, living in Shanghai.
 
 <hr>
 
