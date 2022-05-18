@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 
 My name is Aapeli and I'm a Devops/SRE Engineer. I'm from China 🇨🇳, living in Shanghai.
+🔭 I’m currently working on [ZhongAn Insurance](https://www.zhongan.com)
 
 <hr>
 
@@ -41,7 +42,6 @@ My name is Aapeli and I'm a Devops/SRE Engineer. I'm from China 🇨🇳, living
 - email: <a href="aapeli.nian@gmail.com">aapeli.nian@gmail.com</a>
 
 
-<a href="https://github.com/aapelismith/aapelismith" title="Go to Source">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=aapelismith&show_icons=true&theme=gotham">
-</a>
+![Snake](https://raw.githubusercontent.com/aapelismith/aapelismith/snake.svg)
+
 <br/>
