@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 # Hey, coder!👋 
 
 
-My name is Aapeli and I'm a Devops/SRE Engineer. I'm from China 🇨🇳, living in Shanghai.
-🔭 I’m currently working on [ZhongAn Insurance](https://www.zhongan.com)
+👯 My name is Aapeli and I'm a Devops/SRE Engineer.  <br/>
+🇨🇳 I'm from China , living in Shanghai. <br/>
+🔭 I’m currently working on [ZhongAn Insurance](https://www.zhongan.com)<br/>
 
 <hr>
 
@@ -42,6 +43,6 @@ My name is Aapeli and I'm a Devops/SRE Engineer. I'm from China 🇨🇳, living
 - email: <a href="aapeli.nian@gmail.com">aapeli.nian@gmail.com</a>
 
 
-![Snake](https://raw.githubusercontent.com/aapelismith/aapelismith/snake.svg)
+![Snake](https://raw.githubusercontent.com/aapelismith/aapelismith/main/snake.svg)
 
 <br/>
