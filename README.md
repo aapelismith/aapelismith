@@ -42,7 +42,4 @@ Here are some ideas to get you started:
 
 - email: <a href="aapeli.nian@gmail.com">aapeli.nian@gmail.com</a>
 
-
-![Snake](https://raw.githubusercontent.com/aapelismith/aapelismith/main/snake.svg)
-
 <br/>
