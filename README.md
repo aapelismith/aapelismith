@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img align="center" src="https://github.com/aapelismith/aapelismith/raw/master/developer.gif"/>
+  <img align="center" src="https://github.com/aapelismith/aapelismith/raw/main/developer.gif"/>
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=aapelismith&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
 </p>
 
