@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **aapelismith/aapelismith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,14 +14,20 @@ Here are some ideas to get you started:
 -->
 
 
-# Hey, coder!👋 
+<p align="center">
+  <img align="center" src="https://github.com/aapelismith/aapelismith/raw/master/developer.gif"/>
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=aapelismith&title=MultipleLang,Star,Follower,Commit,Issue" style="max-width:100%;">
+</p>
 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=aapelismith&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-👯 My name is Aapeli and I'm a Devops/SRE Engineer.  <br/>
-🇨🇳 I'm from China , living in Shanghai. <br/>
-🔭 I’m currently working on [ZhongAn Insurance](https://www.zhongan.com)<br/>
+### Hi there 👋
 
-<hr>
+- 🔭 I’m currently working on [ZhongAn Insurance](https://www.zhongan.com)🦊
+- 👯 I'm a Devops/SRE/FullStack Engineer.
+- 💬 Ask me [everything](https://github.com/aapelismith/aapelismith/issues)
+- 📫 How to reach me: aapeli.smith@gmail.com
+
 
 ## Languages & Frameworks & Tools & Abilities
 
@@ -36,10 +40,3 @@ Here are some ideas to get you started:
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?logo=kubernetes&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)
 
-<hr>
-
-## Content Me 📱
-
-- email: <a href="aapeli.nian@gmail.com">aapeli.nian@gmail.com</a>
-
-<br/>
